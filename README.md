@@ -8,15 +8,15 @@
 ```
 def emily():
     pronouns = ["they", "she"]
-    languages = ["Python", "SQL', "MySQL"]
+    languages = ["Python", "SQL", "MySQL"]
     tools = ["Visual Studio Code", "MySQL Workbench"]
     degrees = {
-        "Bachelors of Arts" : "Computer Science",
-        "Masters of Science" : "Data Analytics Engineering"
+        "Bachelors of Arts": "Computer Science",
+        "Masters of Science": "Data Analytics Engineering"
     }
     schools = {
-        "Undergrad" : "Sarah Lawrence College",
-        "Grad School" : "Northeastern University"
+        "Undergrad": "Sarah Lawrence College",
+        "Grad School": "Northeastern University"
     }
     specialties = ["data engineering", "data visualization"]
     tech_communities = [
