@@ -4,7 +4,7 @@
 
 °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ **Welcome to my GitHub!** °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
-### About Me
+### Get to Know Me
 ```
 def emily():
     pronouns = ["they", "she"]
