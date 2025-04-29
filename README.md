@@ -1,9 +1,9 @@
 -----------------------------------------------------------------
 ![Alt Text](https://gifdb.com/images/high/lucky-star-kobayakawa-yutaka-shy-smile-wave-yryck1sf17bckcqn.webp)
 
-°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ **Welcome to my GitHub!** °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
+## °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ **Welcome to my GitHub!** °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
-## Get to Know Me
+### Get to Know Me
 ```
 def emily():
     pronouns = ["they", "she"]
