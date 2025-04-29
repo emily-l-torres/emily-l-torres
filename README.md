@@ -1,5 +1,3 @@
-## Hi, I'm Emily Torres!
-
 -----------------------------------------------------------------
 ![Alt Text](https://gifdb.com/images/high/lucky-star-kobayakawa-yutaka-shy-smile-wave-yryck1sf17bckcqn.webp)
 
