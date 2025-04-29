@@ -1,10 +1,9 @@
 ### Hi, I'm Emily Torres!
 
 -----------------------------------------------------------------
+![Alt Text](https://gifdb.com/images/high/lucky-star-kobayakawa-yutaka-shy-smile-wave-yryck1sf17bckcqn.webp)
 
 °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ **Welcome to my GitHub!** °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
-
-![Alt Text](https://gifdb.com/images/high/lucky-star-kobayakawa-yutaka-shy-smile-wave-yryck1sf17bckcqn.webp)
 
 ### Get to Know Me
 ```
